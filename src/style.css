@@ -29,6 +29,7 @@ body {
     right: 20px;
     bottom: 20px;
     font-size: 70px;
+    transform: rotate(180deg);
   }
   &.spade:before,
   &.spade:after {
